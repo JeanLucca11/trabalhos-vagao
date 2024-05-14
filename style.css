@@ -1,0 +1,44 @@
+body{
+	background-color: #D7F7C5;
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	margin-top: 50px;
+	font-family: arial;
+}
+.container{
+	background-image: url('fundo1.png');
+	height:  525px;
+	width: 728px;
+	background-repeat:no-repeat;
+
+}
+h1{
+	text-align: center;
+	margin-top: 80px;
+}
+.box1{
+	border-style: dashed;
+	width: 494px;
+    height: 207px;
+    align-items: center;
+    margin-left: 100px;
+}
+#img1{
+	margin-left: 30px;
+	margin-top: 30px; 
+}
+#valfah{
+	margin-left: 90px;
+	margin-top: -90px;
+}
+.valfah{
+	margin-top: -90px;
+	margin-left: 90px
+}
+#convert{
+ margin-left: 60px;
+}
+#newconvert{
+margin-left: 60px;	
+}
